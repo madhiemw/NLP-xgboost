@@ -10,3 +10,5 @@ https://documenter.getpostman.com/view/24698470/2sA35BbPxv
 
 the input need to be file ".csv", and the text that want to be tested need to be put in the 'review' column.
 
+and the process of tarining can be seen in "train notebook" folder 
+
