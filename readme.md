@@ -12,4 +12,4 @@ the input need to be file ".csv", and the text that want to be tested need to be
 
 and the process of tarining can be seen in "train notebook" folder 
 
-the trained model can be seen inside the model folder.
+the trained and vectorization model can be seen inside the model folder.
