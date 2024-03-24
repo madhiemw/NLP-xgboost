@@ -14,3 +14,5 @@ the input need to be file ".csv", and the text that want to be tested need to be
 and the process of tarining can be seen in "train notebook" folder 
 
 the trained and vectorization model can be seen inside the model folder.
+
+the train and dataset for testing can be seen in this drive folder: https://drive.google.com/drive/folders/1QguVL9FPAREynrFj27lPrxUHlgEU8i8X?usp=sharing
